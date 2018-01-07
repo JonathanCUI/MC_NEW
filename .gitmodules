@@ -1,0 +1,3 @@
+[submodule "Assets/SubModule/SQlite"]
+	path = Assets/SubModule/SQlite
+	url = git@github.com:JonathanCUI/SQLite.git
